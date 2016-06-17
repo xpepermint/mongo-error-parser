@@ -1,0 +1,20 @@
+{
+  "name": "mongo-error-parser",
+  "version": "0.1.0",
+  "description": "MongoError message parser",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpepermint/mongo-error-parser.git"
+  },
+  "keywords": ["mongo", "mongodb", "error", "errors", "parser", "11000", "unique"],
+  "author": "Xpepermint (Kristijan Sedlak)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpepermint/mongo-error-parser/issues"
+  },
+  "homepage": "https://github.com/xpepermint/mongo-error-parser#readme"
+}
