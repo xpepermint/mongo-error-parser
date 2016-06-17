@@ -13,7 +13,7 @@ $ npm install mongo-error-parser
 ## Example
 
 ```js
-const parser = require('mongo-error-parser');
+const parse = require('mongo-error-parser');
 
 try {
   // mongo code here which throws e.g. unique index error
